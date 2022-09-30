@@ -1,0 +1,57 @@
+#carouselba{
+    carousel-transition-duration:.4s;
+    filter: brightness(0.4);
+    width: 100%;
+
+}
+
+#txtconf{
+    min-height: 600px;
+    display: flex;
+    align-items:flex-end;
+    text-align: end;
+       
+}
+
+.carousel-caption{
+    position: absolute; 
+    right: 5%;
+    display: flex;
+    }
+
+
+#cardoradores{
+    padding: 5% 15%;
+}
+
+.card{
+    width: 20rem;
+}
+
+#lugaryfecha{
+    margin: -20;
+    padding: 0;
+}
+
+#textlugaryfecha{
+    color: white;
+    padding: auto;
+    margin-top: 12px;
+
+}
+
+form{
+    width: 50%;
+    margin: auto;
+    padding: 1.5rem;
+}
+
+.btn-color{
+    color: white;
+    background-color: #96c93e;
+    border: #96c93e;
+    width: 100%;
+    
+}
+
+
